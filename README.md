@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center"> Tapas Kumar Biswal </h1>
 
-<!--
-**tapaskbiswal/tapaskbiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Senior Software Engineer .NET Core · Angular · Microservices · Clean Architecture</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🏅 <strong>6+ Years of Professional Experience</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+Senior Software Engineer with **6+ years** of strong experience in **.NET Core (6/7)**, **.NET Framework**, and **Angular (4–14)**.
+Expertise in **DDD**, **CQRS**, and **SOLID principles** with hands-on experience in building scalable microservices and REST APIs.
+Proficient in **MSSQL**, **PostgreSQL**, **MySQL**, **Redis**, and **RabbitMQ**.
+Experienced in real-time systems using **SignalR** and performance optimization through caching.
+Strong background in **system design**, **clean architecture**, and delivering high-quality enterprise applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### Architecture & Patterns
+![DDD](https://img.shields.io/badge/-DDD-informational?style=flat)
+![CQRS](https://img.shields.io/badge/-CQRS-informational?style=flat)
+![SOLID](https://img.shields.io/badge/-SOLID-informational?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-informational?style=flat)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-informational?style=flat)
+![REST API](https://img.shields.io/badge/-REST%20API-informational?style=flat)
+
+### Databases & Messaging
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+### Real-time & Performance
+![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Caching](https://img.shields.io/badge/-Caching-informational?style=flat)
+
+### 🤖 AI Tools
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tapasvssut&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tapasvssut&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
