@@ -52,16 +52,6 @@ Strong background in **system design**, **clean architecture**, and delivering h
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tapasvssut&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tapasvssut&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
