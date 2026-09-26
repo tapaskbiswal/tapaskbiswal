@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-Senior Software Engineer with **6+ years** of strong experience in **.NET Core **, **.NET Framework**, and **Angular (4–14)**.
+Senior Software Engineer with **6+ years** of strong experience in .NET Core , **.NET Framework**, and **Angular (4–14)**.
 Expertise in **DDD**, **CQRS**, and **SOLID principles** with hands-on experience in building scalable microservices and REST APIs.
 Proficient in **MSSQL**, **PostgreSQL**, **MySQL**, **Redis**, and **RabbitMQ**.
 Experienced in real-time systems using **SignalR** and performance optimization through caching.
